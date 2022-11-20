@@ -1,16 +1,17 @@
-# examen_lopez_alexis
+## Alumno: 
+Alexis Ricardo López Mero 
+## Materia: 
+Aplicaciones Moviles Transición
+## Año electivo: 
+2022(2) 
+## Docente: 
+Edgardo panchana
+## Descripción del proyecto:
 
-A new Flutter project.
+### Pantalla principal
 
-## Getting Started
+Mostrará datos parciales de la colección de datos proporcionada y reaccionará al gesto “Tap” para que al detectarlo llame a la pantalla de detalle mostrando los datos completos.  Esta pantalla debe presentar los datos a traves de un List Widget.
 
-This project is a starting point for a Flutter application.
+### Pantalla segundaria
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Recibirá un objeto del tipo de datos proporcionado y mostrará estos datos completos al usuario. Al dar tap al botón “Done” debe regresar a la pantalla principal.
